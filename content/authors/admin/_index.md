@@ -15,9 +15,9 @@ role: PhD student in Computational Astrophysics and Data Science
 # Organizations/Affiliations
 organizations:
 - name: Durham University
-  url: "www.dur.ac.uk"
+  url: "https://dur.ac.uk"
 - name: Tsukuba University
-  url: "www.tsukuba.ac.jp/en/"
+  url: "https://tsukuba.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student working on black hole winds, AGN feedback, and Deep Learning applications. 
@@ -64,13 +64,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a PhD student in the University of Durham, working on developing new AGN feedback subgrid models for cosmological simulations. I am currently studying UV line-driven winds from Supermassive Black Hole accretion discs as a potential major feedback channel. 
