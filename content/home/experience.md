@@ -28,13 +28,3 @@ date_format = "Jan 2006"
   Astrophysical simulations of galaxy evolution, and black hole accretion.
   """
 
-[[experience]]
-  title = "Research Fellow"
-  company = "Tsukuba University"
-  company_url = "https://www.ccs.tsukuba.ac.jp/eng/"
-  location = "Tsukuba, Japan"
-  date_start = "2019-12-01"
-  date_end = "2020-03-31"
-  description = """"""
-
-+++
