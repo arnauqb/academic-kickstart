@@ -10,28 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Computational Astrophysics and Data Science 
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Durham University
-  url: "https://dur.ac.uk"
-- name: Tsukuba University
-  url: "https://tsukuba.ac.jp/en/"
+- name: Oxford University
+  url: "https://ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student working on black hole winds, AGN feedback, and Deep Learning applications. 
+bio: Astrophysicist now working on the calibration of agent-based models at Oxford.
 
 interests:
 - Theoretical Astrophysics
 - Cosmology
 - Artificial Intelligence
+- Agent-based modelling
+- Bayesian inference
 
 education:
   courses:
   - course: PhD in Astrophysics and Data Science 
     institution: Durham University, UK 
-    year: 202?
+    year: 2022
   - course: MSc in Physics 
     institution: Heidelberg University, Germany
     year: 2017
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:arnau.quera-bofarull@durham.ac.uk
+  link: mailto:arnau.quera-bofarull@cs.ox.ac.uk
   #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
@@ -73,6 +73,6 @@ social:
 #- Visitors
 ---
 
-I am a PhD student in the University of Durham, working on developing new AGN feedback subgrid models for cosmological simulations. I am currently studying UV line-driven winds from Supermassive Black Hole accretion discs as a potential major feedback channel. 
+I have recently obtained a PhD in Astrophysics by the University of Durham and I'm currently holding a postdoctoral research position at the Computer Science department of the University of Oxford. I'm interested in any kind of system which requires large computational resources to understand.
 
-I am also interested in applications of Deep Learning to a wide variety of areas, from medical imaging, to social sciences and aviation.
+My current focus is on designing new algorithms for the calibration of large agent-based models.
